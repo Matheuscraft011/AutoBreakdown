@@ -1,4 +1,4 @@
-Just add the zip file to world->datapacks and extract.
+Just add the zip file to world->datapacks and extract. Or idk clone the repository, you choose.
 
 Currently the crafting recipes are:
 2 stone -> 1 cobblestone
